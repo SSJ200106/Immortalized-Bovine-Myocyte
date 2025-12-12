@@ -9,7 +9,7 @@
 
 # Immortalized Bovine Myocyte
 
-_The limited proliferative capacity of bovine primary myoblasts in vitro presents a major barrier to long-term research and biotechnological applications. Cell immortalization offers a promising solution, while the molecular mechanisms underlying immortalization approaches remain incompletely understood. In this study, we investigated transcriptomic alterations induced by SV40-Large T antigen to elucidate the molecular basis of myoblasts immortalization. _
+The limited proliferative capacity of bovine primary myoblasts in vitro presents a major barrier to long-term research and biotechnological applications. Cell immortalization offers a promising solution, while the molecular mechanisms underlying immortalization approaches remain incompletely understood. In this study, we investigated transcriptomic alterations induced by SV40-Large T antigen to elucidate the molecular basis of myoblasts immortalization. 
 
 ## RNA-seq
 
