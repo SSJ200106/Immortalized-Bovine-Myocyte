@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# SSJ200106_TEST
+# Immortalized Bovine Myocyte
 
-_This is a regular testing page._
+_SV40-LargeT maintains immortalized state of bovine myocyte by regulating proliferation apoptosis_
 
 </header>
 
