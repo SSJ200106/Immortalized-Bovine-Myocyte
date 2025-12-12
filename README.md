@@ -15,6 +15,8 @@ _SV40-LargeT maintains immortalized state of bovine myocyte by regulating prolif
 
 Script for Analyzing Transcriptome Data in Research. 
 
+## Contact the author
 
+ssjsci@126.com
 
 </footer>
